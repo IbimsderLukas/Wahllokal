@@ -1,0 +1,2 @@
+# Wahllokal
+DEZSYS_GK71_ELECTION_REST
